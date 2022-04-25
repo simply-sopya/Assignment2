@@ -1,0 +1,210 @@
+{
+    "dataJson": [
+        
+        {
+            "data_type": "banner",
+            "data": [
+                
+                {
+                    "id": "0",
+                    "image": "https://img.dmart.in/images/rwd/banners/hmpg/1april22-crsl-halfprice-kwl.jpg"
+                    
+                }
+            ]
+        },
+        
+        {
+            "data_type": "grid",
+            "data": [
+                
+                {
+                    "id": "0",
+                    "image": "https://images-eu.ssl-images-amazon.com/images/I/81QGmoz4U+L.AC_SL240_.jpg",
+                    "title": "Dhampure White Crystal Sugar"
+                    ,
+                    "isVeg" : true
+                },
+                
+                {
+                    "id": "1",
+                    "image": "https://images-eu.ssl-images-amazon.com/images/I/91Zz6QbhjdL.AC_SL240_.jpg",
+                    "title": "B Natural Mixed Fruit Juice"
+                    ,
+                    "isVeg" : false
+                },
+                
+                {
+                    "id": "2",
+                    "image": "https://images-eu.ssl-images-amazon.com/images/I/612M+CfVazS.AC_SL240_.jpg",
+                    "title": "Heinz Tomato Ketchup"
+                    ,
+                    "isVeg" : true
+                },
+                
+                {
+                    "id": "3",
+                    "image": "https://images-eu.ssl-images-amazon.com/images/I/81QGmoz4U+L.AC_SL240_.jpg",
+                    "title": "Dhampure White Crystal Sugar"
+                    ,
+                    "isVeg" : false
+                },
+                
+                
+                {
+                    "id": "4",
+                    "image": "https://images-eu.ssl-images-amazon.com/images/I/91Zz6QbhjdL.AC_SL240_.jpg",
+                    "title": "B Natural Mixed Fruit Juice"
+                    ,
+                    "isVeg" : true
+                },
+                {
+                    "id": "5",
+                    "image": "https://images-eu.ssl-images-amazon.com/images/I/613WxlAksZL.AC_SL240_.jpg",
+                    "title": "Mother Dairy Tadka Chach"
+                    ,
+                    "isVeg" : false
+                },
+                
+                {
+                    "id": "6",
+                    "image": "https://images-eu.ssl-images-amazon.com/images/I/81QGmoz4U+L.AC_SL240_.jpg",
+                    "title": "Dhampure White Crystal Sugar"
+                    ,
+                    "isVeg" : true
+                },
+                
+                {
+                    "id": "7",
+                    "image": "https://images-eu.ssl-images-amazon.com/images/I/612M+CfVazS.AC_SL240_.jpg",
+                    "title": "Heinz Tomato Ketchup"
+                    ,
+                    "isVeg" : false
+                },
+                
+                {
+                    "id": "8",
+                    "image": "https://images-eu.ssl-images-amazon.com/images/I/613WxlAksZL.AC_SL240_.jpg",
+                    "title": "Mother Dairy Tadka Chach"
+                    ,
+                    "isVeg" : true
+                },
+                
+                
+                {
+                    "id": "9",
+                    "image": "https://images-eu.ssl-images-amazon.com/images/I/81QGmoz4U+L.AC_SL240_.jpg",
+                    "title": "Dhampure White Crystal Sugar"
+                    ,
+                    "isVeg" : false
+                },
+                {
+                    "id": "10",
+                    "image": "https://images-eu.ssl-images-amazon.com/images/I/91Zz6QbhjdL.AC_SL240_.jpg",
+                    "title": "B Natural Mixed Fruit Juice"
+                    ,
+                    "isVeg" : true
+                }
+            ]
+        },
+        {
+            "data_type": "banner",
+            "data": [
+                
+                {
+                    "id": "0",
+                    "image": "https://img.dmart.in/images/rwd/banners/hmpg/1april22-crsl-halfprice-kwl.jpg"
+                    
+                }
+            ]
+        },
+        {
+            "data_type": "list",
+            "data": [{
+                "id": "0",
+                "image": "https://images-eu.ssl-images-amazon.com/images/I/81QGmoz4U+L.AC_SL240_.jpg",
+                "title": "Dhampure White Crystal Sugar",
+                "measuring_type": "gram",
+                "quantity_available": [
+                    "30 gram", "50 gram", "80 gram"
+                ],
+                "mrp": "₹137.00",
+                "d_price": "₹105.00",
+                "saving": "₹32.00",
+                "isVeg" : true
+            },
+                
+                {
+                    "id": "1",
+                    "image": "https://images-eu.ssl-images-amazon.com/images/I/91Zz6QbhjdL.AC_SL240_.jpg",
+                    "title": "B Natural Mixed Fruit Juice",
+                    "measuring_type": "liter",
+                    "quantity_available": [
+                        "1 L"
+                    ],
+                    "mrp": "₹50.00",
+                    "d_price": "₹48.00",
+                    "saving": "₹2.00",
+                    "isVeg" : true
+                },
+                
+                {
+                    "id": "2",
+                    "image": "https://images-eu.ssl-images-amazon.com/images/I/612M+CfVazS.AC_SL240_.jpg",
+                    "title": "Heinz Tomato Ketchup",
+                    "measuring_type": "gram",
+                    "quantity_available": [
+                        "30 gram", "50 gram", "80 gram"
+                    ],
+                    "mrp": "₹137.00",
+                    "d_price": "₹105.00",
+                    "saving": "₹32.00",
+                    "isVeg" : false
+                },
+                
+                {
+                    "id": "3",
+                    "image": "https://images-eu.ssl-images-amazon.com/images/I/613WxlAksZL.AC_SL240_.jpg",
+                    "title": "Mother Dairy Tadka Chach",
+                    "measuring_type": "gram",
+                    "quantity_available": [
+                        "30 gram", "50 gram", "80 gram"
+                    ],
+                    "mrp": "₹50.00",
+                    "d_price": "₹48.00",
+                    "saving": "₹2.00",
+                    "isVeg" : false
+                    
+                },
+                
+                
+                {
+                    "id": "4",
+                    "image": "https://images-eu.ssl-images-amazon.com/images/I/91Zz6QbhjdL.AC_SL240_.jpg",
+                    "title": "B Natural Mixed Fruit Juice",
+                    "measuring_type": "liter",
+                    "quantity_available": [
+                        "1 L"
+                    ],
+                    "mrp": "₹50.00",
+                    "d_price": "₹48.00",
+                    "saving": "₹2.00",
+                    "isVeg" : true
+                }
+                
+            ]
+        },
+        
+        {
+            "data_type": "banner",
+            "data": [
+                
+                {
+                    "id": "0",
+                    "image": "https://img.dmart.in/images/rwd/banners/hmpg/1april22-crsl-halfprice-kwl.jpg"
+                    
+                }
+            ]
+        },
+        
+    ]
+}
